@@ -1,1 +1,1 @@
-support du cours git n 2
+support du cours git n° 2
