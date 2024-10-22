@@ -1,1 +1,1 @@
-#Coucou je suis le nouveau code python
+#Coucou je suis le nouveau code python (si si on va faire du python je sais pas faire autre chose)
